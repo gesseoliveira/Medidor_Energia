@@ -1,0 +1,6 @@
+DEV_LTC2944.c:69:14:Dev_Gas_Gauge_IntHwInit	48	static,ignoring_inline_asm
+DEV_LTC2944.c:118:14:Dev_Gas_Gauge_ExtDevConfig	64	static
+DEV_LTC2944.c:185:14:Dev_Gas_Gauge_Get_Battery_Data	56	static
+DEV_LTC2944.c:224:14:Dev_Gas_Gauge_ShutDown	40	static
+DEV_LTC2944.c:252:14:Dev_Gas_Gauge_Manual_Convert	40	static
+DEV_LTC2944.c:296:14:Dev_Gas_Gauge_Set_Battery_Capacity	40	static
